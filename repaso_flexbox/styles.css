@@ -32,9 +32,11 @@ body{
 
 .c1{
     background: pink;
+    order: 1;
 }
 .c2{
     background: blue;
+    order: 1;
 }
 
 .c3{
