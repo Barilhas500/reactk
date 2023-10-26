@@ -12,12 +12,9 @@ code {
     monospace;
 }
 
-#caja{
-  width: 200px;
-  height: 200px;
-  border: 5px solid white;
-  background-color: lightblue;
-  color: #444;
-  text-align: center;
-  line-height: 190px;
+.activado{
+  font-weight: bold;
+  font-size: 18px;
+  color: rgb(13, 73, 111);
+  text-decoration: none;
 }
